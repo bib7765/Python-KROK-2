@@ -1,0 +1,247 @@
+Код      | Мова                         
+---------+------------------------------
+aar      | afar                         
+abk      | abkhaz                       
+ace      | acehnese                     
+ach      | acholi                       
+af       | afrikaans                    
+ak       | twi (akan)                   
+alz      | alur                         
+am       | amharic                      
+ar       | arabic                       
+as       | assamese                     
+ava      | avar                         
+awa      | awadhi                       
+ay       | aymara                       
+az       | azerbaijani                  
+bak      | bashkir                      
+bal      | baluchi                      
+ban      | balinese                     
+bbc      | batak toba                   
+bci      | baoulé                       
+be       | belarusian                   
+bem      | bemba                        
+ber      | tamazight (tifinagh)         
+ber-atn  | tamazight                    
+bew      | betawi                       
+bg       | bulgarian                    
+bho      | bhojpuri                     
+bik      | bikol                        
+bm       | bambara                      
+bn       | bengali                      
+bod      | tibetan                      
+bre      | breton                       
+bs       | bosnian                      
+bts      | batak simalungun             
+btx      | batak karo                   
+bua      | buryat                       
+ca       | catalan                      
+ceb      | cebuano                      
+cgg      | kiga                         
+cha      | chamorro                     
+che      | chechen                      
+chk      | chuukese                     
+chv      | chuvash                      
+ckb      | kurdish (sorani)             
+cnh      | hakha chin                   
+co       | corsican                     
+crh      | crimean tatar                
+crs      | seychellois creole           
+cs       | czech                        
+cy       | welsh                        
+da       | danish                       
+de       | german                       
+din      | dinka                        
+doi      | dogri                        
+dom      | dombe                        
+dv       | dhivehi                      
+dyu      | dyula                        
+dzo      | dzongkha                     
+el       | greek                        
+en       | english                      
+eo       | esperanto                    
+es       | spanish                      
+et       | estonian                     
+eu       | basque                       
+fa       | persian                      
+fa-af    | dari                         
+fao      | faroese                      
+fi       | finnish                      
+fij      | fijian                       
+fil      | filipino (tagalog)           
+fon      | fon                          
+fr       | french                       
+ful      | fulani                       
+fur      | friulian                     
+fy       | frisian                      
+ga       | irish                        
+gaa      | ga                           
+gd       | scots gaelic                 
+gl       | galician                     
+glv      | manx                         
+gn       | guarani                      
+gom      | konkani                      
+gu       | gujarati                     
+ha       | hausa                        
+haw      | hawaiian                     
+he       | hebrew                       
+hi       | hindi                        
+hil      | hiligaynon                   
+hmn      | hmong                        
+hr       | croatian                     
+hrx      | hunsrik                      
+ht       | haitian creole               
+hu       | hungarian                    
+hy       | armenian                     
+iba      | iban                         
+id       | indonesian                   
+ig       | igbo                         
+ilo      | ilocano                      
+is       | icelandic                    
+it       | italian                      
+iw       | hebrew                       
+ja       | japanese                     
+jam      | jamaican patois              
+jv       | javanese                     
+jw       | javanese                     
+ka       | georgian                     
+kac      | jingpo                       
+kal      | kalaallisut                  
+kau      | kanuri                       
+kek      | q'eqchi'                     
+kha      | khasi                        
+kik      | kikongo                      
+kk       | kazakh                       
+km       | khmer                        
+kn       | kannada                      
+ko       | korean                       
+kom      | komi                         
+kri      | krio                         
+ktu      | kituba                       
+ku       | kurdish                      
+ky       | kyrgyz                       
+la       | latin                        
+lb       | luxembourgish                
+lg       | luganda                      
+lij      | ligurian                     
+lim      | limburgish                   
+lmo      | lombard                      
+ln       | lingala                      
+lo       | lao                          
+lt       | lithuanian                   
+ltg      | latgalian                    
+luo      | luo                          
+lus      | mizo                         
+lv       | latvian                      
+mad      | madurese                     
+mah      | marshallese                  
+mai      | maithili                     
+mak      | makassar                     
+mam      | mam                          
+mfe      | mauritian creole             
+mg       | malagasy                     
+mhr      | meadow mari                  
+mi       | maori                        
+min      | minang                       
+mk       | macedonian                   
+ml       | malayalam                    
+mn       | mongolian                    
+mni-mtei | meiteilon (manipuri)         
+mr       | marathi                      
+ms       | malay                        
+ms-arab  | malay (jawi)                 
+mt       | maltese                      
+mwr      | marwadi                      
+my       | myanmar (burmese)            
+ndc-zw   | ndau                         
+nde      | ndebele (south)              
+ne       | nepali                       
+new      | nepalbhasa (newari)          
+nhe      | nahuatl (eastern huasteca)   
+nl       | dutch                        
+no       | norwegian                    
+nso      | sepedi                       
+nus      | nuer                         
+ny       | nyanja (chichewa)            
+oci      | occitan                      
+om       | oromo                        
+or       | odia (oriya)                 
+oss      | ossetian                     
+pa       | punjabi                      
+pa-arab  | punjabi (shahmukhi)          
+pag      | pangasinan                   
+pam      | kapampangan                  
+pap      | papiamento                   
+pl       | polish                       
+por      | portuguese (portugal)        
+ps       | pashto                       
+pt       | portuguese (portugal, brazil)
+qu       | quechua                      
+ro       | romanian                     
+rom      | romani                       
+ru       | russian                      
+run      | rundi                        
+rw       | kinyarwanda                  
+sa       | sanskrit                     
+sag      | sango                        
+sah      | yakut                        
+sat      | santali                      
+scn      | sicilian                     
+sd       | sindhi                       
+shn      | shan                         
+si       | sinhala (sinhalese)          
+sk       | slovak                       
+sl       | slovenian                    
+sm       | samoan                       
+sme      | sami (north)                 
+sn       | shona                        
+so       | somali                       
+sq       | albanian                     
+sr       | serbian                      
+ssw      | swati                        
+st       | sesotho                      
+su       | sundanese                    
+sus      | susu                         
+sv       | swedish                      
+sw       | swahili                      
+szl      | silesian                     
+ta       | tamil                        
+tah      | tahitian                     
+tcy      | tulu                         
+te       | telugu                       
+tet      | tetum                        
+tg       | tajik                        
+th       | thai                         
+ti       | tigrinya                     
+tiv      | tiv                          
+tk       | turkmen                      
+tl       | tagalog (filipino)           
+ton      | tongan                       
+tpi      | tok pisin                    
+tr       | turkish                      
+trp      | kokborok                     
+ts       | tsonga                       
+tsn      | tswana                       
+tt       | tatar                        
+tuk      | tuvan                        
+tum      | tumbuka                      
+udm      | udmurt                       
+ug       | uyghur                       
+uk       | ukrainian                    
+ur       | urdu                         
+uz       | uzbek                        
+vec      | venetian                     
+ven      | venda                        
+vi       | vietnamese                   
+war      | waray                        
+wol      | wolof                        
+xh       | xhosa                        
+yi       | yiddish                      
+yo       | yoruba                       
+yua      | yucatec maya                 
+yue      | cantonese                    
+zap      | zapotec                      
+zh       | chinese                      
+zh-cn    | chinese (simplified)         
+zh-tw    | chinese (traditional)        
+zu       | zulu                         
